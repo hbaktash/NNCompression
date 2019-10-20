@@ -8,4 +8,4 @@ HashedNet is implemented naively and does not provide a good performance; it is 
 Instead one can use the code provided here : https://www.cse.wustl.edu/~ychen/HashedNets/
 
 
-The methods were implemented during my summer internship in INRIA Sophia Antipolis under supervision of Dr. Emanuele Natale and with help of Dr. Laurent Viennot.
+The methods were implemented during my 2019 summer internship in INRIA Sophia Antipolis under supervision of Dr. Emanuele Natale and with help of Dr. Laurent Viennot.
